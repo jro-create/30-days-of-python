@@ -1,2 +1,2 @@
 # 30-days-of-python
-My 30-day Python coding learning challenge
+My 30-day Python learning challenge
